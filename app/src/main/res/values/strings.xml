@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">android_testing</string>
+
+    <string name="srt_success">Welcome, xurshid@gmail.com</string>
+    <string name="srt_failure">Check email and password again</string>
+
+</resources>
